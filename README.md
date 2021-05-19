@@ -11,11 +11,6 @@ This data set can be used to predict the severity (benign or malignant) of a mam
 4. Margin: mass margin: circumscribed=1 microlobulated=2 obscured=3 ill-defined=4 spiculated=5 (nominal) 5. Density: mass density high=1 iso=2 low=3 fat-containing=4 (ordinal)
 6. Severity: benign=0 or malignant=1 (binominal, goal field!)
 
-## Instructions:
-a. You can use any libraries of your choice in python.
-b. Provide the code in a notebook with the format Your_Name.ipynb
-c. The notebook should run without errors and should also display outputs and visualizations.
-
 ## Evaluation Task:
 Download the dataset from attached file and perform the following tasks:
 1. Build Statistical Classification model to detect severity
